@@ -1,3 +1,5 @@
+pipeline syntax
+
 pipeline {
     agent any
     tools {
